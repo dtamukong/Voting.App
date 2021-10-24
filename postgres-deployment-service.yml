@@ -10,5 +10,3 @@ spec:
   selector:
     name: postgres-deployment
 ...
-
-Here is the first
